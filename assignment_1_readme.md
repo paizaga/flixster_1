@@ -20,7 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src=https://i.imgur.com/zsjxGvt.gif width=250><br>
+<img src="https://i.imgur.com/zsjxGvt.gif" width=250><br>
 
 ### Notes
 I encountered some difficulty getting the auto layout functionality in Xcode to do what I intended, such as resizing the view and labels to adjust depending on the size of the device.  
