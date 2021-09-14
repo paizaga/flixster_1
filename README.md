@@ -19,6 +19,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 ### App Walkthrough GIF
 <img src="https://github.com/paizaga/flixster_1/blob/3362cd5cdf895bfd2340f54daa4f85c41c5733d9/ezgif.com-video-to-gif.gif" ><br>
+<img src="https://github.com/paizaga/flixster_1/blob/591fe80800dcbaae4445ef93dbf4a986af98868d/ezgif-7-75aae0885600.gif"> <br>
 
 ### Notes
 I encountered some difficulty getting the auto layout functionality in Xcode to do what I intended, such as resizing the view and labels to adjust depending on the size of the device.  
