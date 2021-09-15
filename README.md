@@ -1,8 +1,6 @@
 # Flixster
 
-Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
-
-📝 `NOTE - PASTE PART 2 SNIPPET HERE:` Paste the README template for part 2 of this assignment here at the top. This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
+Flixster is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 ---
 
@@ -20,7 +18,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-<img src="https://i.imgur.com/zsjxGvt.gif" ><br>
+<img src="https://github.com/paizaga/flixster_1/blob/3362cd5cdf895bfd2340f54daa4f85c41c5733d9/ezgif.com-video-to-gif.gif" ><br>
+<img src="https://github.com/paizaga/flixster_1/blob/591fe80800dcbaae4445ef93dbf4a986af98868d/ezgif-7-75aae0885600.gif"> <br>
 
 ### Notes
 I encountered some difficulty getting the auto layout functionality in Xcode to do what I intended, such as resizing the view and labels to adjust depending on the size of the device.  
