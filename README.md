@@ -15,7 +15,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-<img src=" https://github.com/paizaga/flixster_1/blob/7e883172fd5a48129c1fdf05653acc7814219ee7/ezgif-6-2098e951cd80.gif" ><br>
+<img src="https://github.com/paizaga/flixster_1/blob/7e883172fd5a48129c1fdf05653acc7814219ee7/ezgif-6-2098e951cd80.gif" ><br>
 
 ### Notes
 
